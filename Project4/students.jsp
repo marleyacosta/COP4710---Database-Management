@@ -2,7 +2,7 @@
 
 <%
 String connectionURL =
-"jdbc:postgresql://cop4710-postgresql.cs.fiu.edu:5432/fall16_macos101?user=fall16_macos101&password=3914479";
+"jdbc:postgresql://cop4710-postgresql.cs.fiu.edu:5432/fall16_macos101?user=fall16_macos101&password=??????";
 
 Connection connection = null;
 Statement statement = null;
